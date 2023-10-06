@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Neopets – Pyramids scroller
 // @description  scrolls the Pyramids and Solitaire games down to the game
-// @match        http://www.neopets.com/games/pyramids/pyramids.phtml*
-// @match        http://www.neopets.com/games/sakhmet_solitaire/sakhmet_solitaire.phtml*
+// @match        https://www.neopets.com/games/pyramids/pyramids.phtml*
+// @match        https://www.neopets.com/games/sakhmet_solitaire/sakhmet_solitaire.phtml*
 // ==/UserScript==
 
 $(document).ready(function(){
